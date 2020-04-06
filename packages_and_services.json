@@ -1,0 +1,11 @@
+{
+  "packages": [
+      "fail2ban",
+      "apache2",
+      "cowsay"
+  ],
+  "services": [
+      "fail2ban",
+      "apache2"
+  ]
+}
