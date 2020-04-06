@@ -1,0 +1,23 @@
+{
+  "packages": [
+      "fail2ban",
+      "apache2",
+      "cowsay"
+  ],
+  "services": [
+      "fail2ban",
+      "apache2"
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "david",
+      "shell": "/bin/bash"
+    },
+    {
+      "id": 2,
+      "username": "rikkae",
+      "shell": "/bin/bash"
+    } 
+  ]
+}
