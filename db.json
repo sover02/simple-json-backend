@@ -12,12 +12,14 @@
     {
       "id": 1,
       "username": "david",
-      "shell": "/bin/bash"
+      "shell": "/bin/bash",
+      "group": "staff",
     },
     {
       "id": 2,
       "username": "rikkae",
-      "shell": "/bin/bash"
+      "shell": "/bin/bash",
+      "group": "staff",
     } 
   ]
 }
