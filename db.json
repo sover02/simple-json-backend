@@ -20,6 +20,12 @@
       "username": "rikkae",
       "shell": "/bin/bash",
       "group": "staff"
-    } 
+    },
+    {
+      "id": 3,
+      "username": "jobro",
+      "shell": "/bin/bash",
+      "group": "users"
+    }
   ]
 }
